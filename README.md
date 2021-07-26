@@ -3,13 +3,17 @@
 
 ![Made with Flutter](https://img.shields.io/badge/Made%20With-Flutter-blue?style=flat)
 
+<p align="center">
 <a href='https://apps.apple.com/us/app/owadio/id1545809203'><img height="45" alt='Get it on app store' src='./readme-images/badges/app_store.png'/></a>
 <a href='https://play.google.com/store/apps/details?id=com.ajay.owadio'><img height="55" alt='Get it on Google Play' src='./readme-images/badges/google_play.png'/></a>
+</p>
 
 ## 🎆 Gallery
 
+<p align="center">
 <img align="center" src="readme-images/gallery/mockup.webp" alt="drawing" width="200"/>
 <br /><br />
+</p>
 
 ## 🚀 Features
 
