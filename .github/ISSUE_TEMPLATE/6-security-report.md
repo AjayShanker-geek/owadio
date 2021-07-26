@@ -87,10 +87,8 @@ The data that must NOT be posted here:
 <!-- use all the applicable bulleted list element for this specific issue,
 and remove all the bulleted list elements that are not relevant for this issue. -->
 
-* OS: <!--[e.g. Ubuntu 5.4.0-26-generic x86_64 / Windows 1904 ...]-->
-* Node version:
-* Npm version:
-* Browser name and version:
+* Device: <!--[ iPhone 12 / One Plus 6 ...]-->
+* OS: <!--[ iOS 15 / Android 11...]-->
 
 ---
 
