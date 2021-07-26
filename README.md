@@ -12,7 +12,7 @@
 
 <p align="center">
 <img align="center" src="readme-images/gallery/mockup.webp" alt="drawing" width="200"/>
-<br /><br />
+<br />
 </p>
 
 ## 🚀 Features
